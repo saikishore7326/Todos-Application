@@ -1,2 +1,3 @@
 # Todos-Application
 A Todos application built using HTML, CSS, and JavaScript allows users to manage and track their tasks. It provides a simple user interface where users can add, edit, and delete tasks. The HTML structure contains a form for inputting tasks, and a list to display them. CSS is used to style the application, ensuring it’s visually appealing and user-friendly. JavaScript adds functionality, allowing tasks to be dynamically added to the list, and supporting actions like marking tasks as completed or deleting them. The app can also include features like local storage to save tasks even after the page reloads.
+file:///D:/JS%20Projects/TODO%20LISTS/TODO%20LISTS/todos.html
